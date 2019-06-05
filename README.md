@@ -1,1 +1,1 @@
-RetrowaveHero
+RetrowaveHero is a project that allows you to play a rhythm game based on music. At the same time, all music belongs to the theme of retro music.
